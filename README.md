@@ -9,6 +9,8 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange)
 ![SQLite](https://img.shields.io/badge/SQLite-Local_DB-003B57?logo=sqlite)
 
+**[► ライブデモを試す](https://diet-recipe-rag.streamlit.app/)**
+
 ---
 
 ## 📌 概要
